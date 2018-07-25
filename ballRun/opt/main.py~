@@ -1,7 +1,6 @@
 import optimize as op
 
 if __name__ == "__main__":
-
 	import argparse
 	opt = op.Optimizer()
 
